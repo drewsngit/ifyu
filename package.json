@@ -1,0 +1,24 @@
+{
+  "name": "ifyu",
+  "version": "1.0.0",
+  "description": "Fyyur Artiste Booking App -----",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewsngit/ifyu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewsngit/ifyu/issues"
+  },
+  "homepage": "https://github.com/drewsngit/ifyu#readme"
+}
